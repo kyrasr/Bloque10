@@ -1,0 +1,69 @@
+body{
+    background-color: grey;
+}
+
+#datos{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.datos{
+    width: 65em;
+    height: 85em;
+    padding-left: 3em;
+    padding-top: 2em;
+    padding-right: 3em;
+    padding-bottom: 2em;
+    background-color:white;
+    border-radius: 5px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+div.pers{
+    font-size: 23px;
+    margin-left: 2em;
+    float: left;
+}
+div.foto{
+    float: right;
+}
+div.text{
+    position: absolute;
+    font-size: 23px;
+    margin-left: 2em;
+    width: 40em;
+}
+div.obj{
+    padding-top: 35em;
+    padding-left: 35em;
+    width: 10px;
+    height: 10px;
+}
+div.frame{
+    padding-left: 4em;
+    padding-top: 3em;
+}
+object{
+    width: 28em;
+    height: 20em;
+}
+img{
+    width: 13em;
+    height: 17em;
+    margin-right: 2em;
+}
+footer{
+    background-color: black;
+    position: absolute;
+    padding-top: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    padding-left: 10px;
+
+}
